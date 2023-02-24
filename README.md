@@ -1,3 +1,3 @@
 # turtle-python
 
-## Repositry dedicated for learning sketching with python.
+<b> Repositry dedicated for learning sketching with python. </b>
